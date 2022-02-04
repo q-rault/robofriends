@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To start the project in developement mode
+## To start the project in development mode
 
 In the project directory, you can run:
 ```
